@@ -36,7 +36,7 @@ A Power BI project focused on cleaning Netflix data, creating KPIs and visualiza
 
 ## 📫 Connect
 
-- LinkedIn: [Add your LinkedIn URL]
+- LinkedIn: [https://www.linkedin.com/in/vamsikrishna-avula-5846a2379/]
 - GitHub: [vamsi-krishna-code](https://github.com/vamsi-krishna-code)
 
 ---
